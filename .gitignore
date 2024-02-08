@@ -1,0 +1,21 @@
+__pycache__/
+saves/
+*.csv
+*.pt
+test_exp/
+ML-244-review-task-3/
+.DS_Store/
+
+# virtualenv
+venv/
+ENV/
+env/
+
+# IPython Notebook
+.ipynb_checkpoints
+
+# pyenv
+.python-version
+
+.idea/
+dataset/
